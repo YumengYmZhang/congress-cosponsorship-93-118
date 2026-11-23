@@ -68,6 +68,6 @@ Two rounds were needed: 260 member-Congress rows in the first, 2 in the second. 
 | 117 | 2021–2023 | 450 | 11,456 | 101 | 6,356 |
 | 118 | 2023–2025 | 449 | 12,543 | 104 | 6,759 |
 
-## Source
+## Source and public domain status
 
-Retrieved from the Congress.gov API (Library of Congress) in October 2026. Congress.gov suggests, but does not require, the attribution: "Data retrieved from Congress.gov (https://www.congress.gov/)".
+Retrieved from the Congress.gov API (Library of Congress), October 10–13, 2026. These records are works of the U.S. federal government, which are not subject to copyright in the United States (17 U.S.C. § 105), so the data are in the public domain. Congress.gov suggests, but does not require, the attribution: "Data retrieved from Congress.gov (https://www.congress.gov/)".
